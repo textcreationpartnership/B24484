@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal to Parliament, against office-jobbing.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24484</idno><idno type="EEBO-CITATION">99884113</idno>
+  <idno type="VID">185861</idno>
+  <idno type="EEBO-PROQUEST">2248520247</idno>
+  
+            <idno type="STC">Wing H3595</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[24]</idno>
+            <idno type="STC">ESTC R213499</idno>
+            <idno type="PROQUEST">ocm99884113</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884113e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185861)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal to Parliament, against office-jobbing.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Sale of public office --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:185861:1"/>
+            <head>AN Humble Proposal TO PARLIAMENT, AGAINST Office-Jobbing.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>YOUR Fore-fathers (after they had shaken off the <hi>Pope's Supremacy</hi>) made a Law, Entituled, <hi>An Act for recontinuing Liberties in the Crown:</hi>
+               <note place="margin">27 Hen. 8. Chap. 24.</note> And thereby restored to it divers of the most Ancient <hi>Prerogatives</hi> and <hi>Authorities</hi> of <hi>Justice</hi> which had been severed and taken from it, to the great deminishment and detriment of the Royal Estate, and to the great hinderance and delay of Justice.</p>
+            <p>They also made the Laws against Buying and Selling Offices Penal, for having none but persons worthy and meet, advanced to Offices and Places of Trust and Pro<g ref="char:EOLhyphen"/>fit; <note place="margin">5 &amp; 6 Edw. 6. Chap. 16.</note> And were careful not to repeal the former Law made for that purpose in the 12th Year of King <hi>Richard</hi> the 2<hi>d. Chap.</hi> 2. whereby all Ministers, Judges and others who have the Ordaining, Nameing, or Making of any Officer under the King, shall be sworn, <hi>That they will not Ordain, Name, or Make any for Money, Broakage, Favour or Affection.</hi>
+            </p>
+            <p>In the Reign of King <hi>James</hi> the I. his Favourites so dispensed with the Laws, that they split <hi>Great Offices</hi> into many <hi>Lttle ones,</hi> to make them more vendible, and erect<g ref="char:EOLhyphen"/>ed so many of them, that upon heavy Complaints made thereof to the King, he is<g ref="char:EOLhyphen"/>sued out his Royal <hi>Declarations</hi> to put a stop thereto.</p>
+            <p>In <hi>Anno</hi> 13 of His said Majesties Reign, Sir <hi>Robert Vernon</hi> Knight, sold his Office of Cofferer, and did surrender it into the King's Hands, who granted the same Office to Sir <hi>A. J.</hi> to whom Sir <hi>Robert</hi> had sold it; <note place="margin">Co. Just. 234.</note> and Sir <hi>A.</hi> was by the King's appoint<g ref="char:EOLhyphen"/>ment admitted and sworn Cofferer, and afterward upon complaint thereof it was re<g ref="char:EOLhyphen"/>solved by Sir <hi>Thomas Egerton, Lord Chancellor,</hi> the <hi>Chief-Justice,</hi> and others to whom the King referred the same, <hi>That the Office was void, and that Sir</hi> A. <hi>was disabled to hold the same, and that no</hi> non obstante <hi>could dispense with the said Laws:</hi> Whereupon Sir <hi>Marmaduke Darrell</hi> was by the King's Command sworn Cofferer. And the said Lord <hi>Chief</hi> Justice <hi>Cook</hi> saith, <note place="margin">Ibid.</note>
+               <hi>That the Stat'</hi> 12 Rich. II. <hi>is a Law worthy to be written in Golden Letters; but more worthy to be put in due Execution; for certainly never shall Justice be duely administred, but when Officers and Ministers of Justice come to their Places in such manner as by Law is required.</hi>
+            </p>
+            <p>I pray Consider, Your King, Your Country, Your Religion, Liberty, and Pro<g ref="char:EOLhyphen"/>perty, cannot be secure while Offices, Civil and Military, may be bought or Sold; for the Jesuits being very rich, never let Persons fit for their Purposes, want Mo<g ref="char:EOLhyphen"/>ney to purchase. And such as buye Offices with their own Money in the Army, will (when any brisk Action by accident happens to be done) be apt to rob Soul<g ref="char:EOLhyphen"/>diers of the Booty or Boon, and never fight but when they cannot well avoid it. And such as purchase Civil Offices, will be apt to do mean and base things, to re<g ref="char:EOLhyphen"/>imburse themselves. And their undue Practises will so discontent and ripen the People for Rebellion, that his Majesty, and his Loving Subjects, will be at continu<g ref="char:EOLhyphen"/>al Trouble and Charge to Discover and Apprehend Plotters and Conspirators.</p>
+            <pb n="2" facs="tcp:185861:2"/>
+            <p>New Oaths, Associations and Laws will avail as little as the Old have done to prevent Plots and Conspiracies, until all in Authority under the King be obliged to swear.</p>
+            <p>That they will not directly or indirectly take any Sum or Sums of Money, or ought of Value by themselves or other of any Person whatsoever for any Office or Imployment; or for Recommending any Person to any Office, or Imployment: And that they will, according to the best of their Knowledge, Give, or Re-com<g ref="char:EOLhyphen"/>mend none to Offices but such as be well Experienced, or Qualified for the same: And duly encourage all true and faithful Discoveries.</p>
+            <p>And the Persons admitted hereafter to any Office, or Imployment, may be oblig'd to Swear.</p>
+            <p>That they have not given, or promised to give, any thing of Value, to any Per<g ref="char:EOLhyphen"/>son whatsoever, for the Office or Imployment they are admitted to, upon any Ac<g ref="char:EOLhyphen"/>count whatsoever, relating to their Admition to, or Grant of the Office or Im<g ref="char:EOLhyphen"/>ployment or any Recommendation thereto.</p>
+            <p>And all great Officers, and the Judges especially, whh are intrusted with the Ex<g ref="char:EOLhyphen"/>position and Execution of the Laws, may have certain and sufficient Sallaries setled in liew of all Contingent Fees, Profits, and Perquesits.</p>
+            <p>And make breach of Oath very Penal, and the Reward liberal, to such as will make true and faithful Discoveries, of all undue Practices: And then Oaths, Assosi<g ref="char:EOLhyphen"/>ations, and Laws will have their wished Effects.</p>
+            <p>A better Instance cannot be given of the Benefit will accrew to the Government, by good Rewards settled, for Discoveries, than the Rewards promised, and given to such as Discovered and Apprehended the late Conspirators.</p>
+            <p>I do assure Your Lordships, and Your Honours, That I have taken the Oaths established, and subscribed the Assosiation: And without them I hold myself, bound in Gratitude, to do His Majesty the best Service I can, for exposing His Sacred Person so often, and freely, as His Majesty hath done, to many Eminent Dangers both by Sea and Land, to subdue all Enemies to Religion, Liberty, and Property: And do believe, such in Authority under His Ma;esty, That make a Trade of dispensing with Oaths, Assosiations, and Laws; and ban<g ref="char:EOLhyphen"/>ter true and faithful Discoveries, are worse than <hi>Canibals.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
